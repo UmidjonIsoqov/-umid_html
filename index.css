@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+    width: 1140px;
+    margin-top: 50px;
+    
+}
+
+.card{
+    
+    padding: 10px 20px;
+    color: antiquewhite;
+}
+
+.cards{
+    display: flex;
+    gap: 30px;
+    margin-top: 30px;
+}
+
+.size{
+    margin-top: 30px;
+    font-size: 40px;
+}
+
+.father{
+    padding-top: 50px;
+    background-color: rgb(238, 232, 240);
+    border-radius: 20px;
+}
+
+.women{
+    margin-top: -450px;
+    margin-left: 180px;
+    color: rgb(182, 139, 146);
+}
+
+.hto{
+    margin-top: 20px;
+    margin-left: 180px;
+}
+
+.soqqa{
+    margin-top: 20px;
+    margin-left: 180px;
+    color: rgb(182, 139, 146);
+}
+.lorem{
+    margin-top: 20px;
+    margin-left: 180px;
+    color: rgb(182, 139, 146);
+}
+
+.butoncha{
+    color: rgb(238, 166, 178);
+    border: none;
+    padding: 10px 40px;
+    margin-left: 180px;
+}
